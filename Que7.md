@@ -1,3 +1,5 @@
+# Q.7 What are data types in js?
+
 JavaScript has two main categories of data types: **Primitive** and **Non-Primitive**.
 
 **Primitive Data Types**:  7 types 
@@ -40,3 +42,22 @@ JavaScript has two main categories of data types: **Primitive** and **Non-Primit
 **Key Points**:  
 - Primitive types are immutable and passed by value.  
 - Objects are mutable and passed by reference.
+
+## Here are some interesting facts about JavaScript data types:
+
+1. **Arrays are Objects**  
+   - Arrays are technically objects in JS, not a distinct type. `typeof [1, 2, 3]` returns `"object"`.  
+   - Check with: `Array.isArray([1, 2, 3])` → `true`.
+
+2. **NaN is a Number**  
+   - `NaN` (Not-a-Number) is part of the `Number` type, but `NaN !== NaN`.  
+   - Test: `typeof NaN` → `"number"`.
+
+3. **Undefined vs. Null History**  
+   - `undefined` was added later to fix issues with `null`. Originally, `null` was the only way to indicate "no value," but it confused developers.
+
+4. **Symbol Uniqueness**  
+   - Even if two Symbols have the same description, they’re unique: `Symbol("id") !== Symbol("id")`.
+
+5. **BigInt Saves Precision**  
+   - Numbers lose precision beyond `2^53 - 1`, but `BigInt` handles huge integers perfectly. Example: `9007199254740992n + 1n` works accurately.

@@ -1,4 +1,4 @@
-# What is Selectors in JS 
+# Q.6 What is Selectors in JS 
 selectors helps us to get specific element from dom tree based on its IDs classnames and tag names 
 
 **Types of Selectors**:

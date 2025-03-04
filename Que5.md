@@ -1,4 +1,4 @@
-# What is DOM?
+# Q.5 What is DOM?
 
 **DOM (Document Object Model)** is a programming interface that represents an HTML or XML document as a tree structure, where each node is an object representing a part of the document.
 
