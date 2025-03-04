@@ -17,3 +17,15 @@
     </script>
   </body>
 </html>
+```
+```css
+Document
+│── html
+│   │── head
+│   │   └── title
+│   │       └── "My Page"
+│   │── body
+│       │── h1
+│       │   └── "Hello World"
+│       └── p
+│           └── "This is a paragraph."
