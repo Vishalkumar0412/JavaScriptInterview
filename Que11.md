@@ -14,3 +14,13 @@ function functionName(parameters) {
 - Functions can be named or anonymous.
 - They can return a value using return, or nothing (implicitly returns undefined).
 - Parameters are optional.
+
+## List of Types of Functions in JavaScript
+
+1. Named Function (Function Declaration)  
+2. Anonymous Function   
+3. Arrow Function 
+4. Function Expression
+5. Immediately Invoked Function Expression (IIFE)  
+6. Constructor Function  
+7. Higher-Order Function
