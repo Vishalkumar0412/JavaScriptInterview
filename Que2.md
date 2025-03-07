@@ -1,4 +1,4 @@
-# Q.2 What is client side and serer side
+# Q.2 What is client side and server side
  ## client 
  The client is a device, software or component that request and cosumes services from a server 
 
