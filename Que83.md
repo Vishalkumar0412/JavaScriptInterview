@@ -1,8 +1,4 @@
-#  Extracted Text from Image
-
-**Title:**
-Top 100 JavaScript Interview Questions and Answers - HINDI  
-Q. What is the use of "this" keyword in the context of event handling in JS?
+# Q. What is the use of "this" keyword in the context of event handling in JS?
 
 **Description:**
 - "this" keyword refers to the element that the event handler is attached to.

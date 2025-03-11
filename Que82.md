@@ -1,8 +1,4 @@
-# Extracted Text from Image
-
-**Title:**
-Top 100 JavaScript Interview Questions and Answers - HINDI  
-Q. What is the purpose of the event.preventDefault() method in JS?
+# Q. What is the purpose of the event.preventDefault() method in JS?
 
 **Description:**
 - The event.preventDefault() method is used to prevent the default behavior of an event and the link click will be prevented.

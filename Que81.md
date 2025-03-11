@@ -1,8 +1,4 @@
-#  Extracted Text from Image
-
-**Title:**
-Top 100 JavaScript Interview Questions and Answers - HINDI  
-Q. How can you stop event propagation or event bubbling in JS?
+#  Q. How can you stop event propagation or event bubbling in JS?
 
 **Description:**
 - Event bubbling can be stopped by calling stopPropagation() method on event.

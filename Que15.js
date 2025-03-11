@@ -52,21 +52,22 @@
 // let flated=arr2.flat(4)
 // console.log(flated);
 
-let arr=[1,2,3,4,5,6,7]
-let reduced=arr.reduce((acc,curr)=>{
+// let reduced=arr.reduce((acc,curr)=>{
 
-    // console.log(acc); // acc if not declare then start by 0th index
-    // console.log(curr);//acc if not declare then start by 0th index
-    //4
-    console.log(curr);
+//     // console.log(acc); // acc if not declare then start by 0th index
+//     // console.log(curr);//acc if not declare then start by 0th index
+//     //4
+//     console.log(curr);
     
-    return acc+curr; //3 acc=10
+//     return acc+curr; //3 acc=10
 
-},4)
+// },4)
 
-console.log(reduced);
-
-
+// console.log(reduced);
 
 
+
+
+
+let arr=[1,2,3,4,5,6,7]
 

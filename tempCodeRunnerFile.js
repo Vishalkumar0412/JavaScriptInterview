@@ -1,1 +1,2 @@
-4
+console.log(first)
+console.log(seccond)
